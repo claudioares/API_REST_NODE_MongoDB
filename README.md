@@ -1,12 +1,12 @@
 # API_REST_NODE_MongoDB
 
-Api rest com vários cruds atrelado a plataforma, on line atlas do mongodb
+Api rest com vários cruds atrelado a plataforma, on line, do mongodb:
 https://www.mongodb.com/atlas/database
 
 ### No terminal:
 
 - Antes de inciar o projeto faça: "npm i" para baixar todas as dependencias e inicie a aplicação com: "npm run dev"
-- Na pasta loaders/mongodb.ts, é preciso colocar o link das suas tabelas no atlas, plataforma online do mongodb
+- Na pasta loaders/mongodb.ts, é preciso colocar o link das suas tabelas na plataforma online do mongodb
 
 Esta é uma construção RESTful API que permite:
 
